@@ -21,17 +21,10 @@ This is a fork of the **Lazy Predict** repository, which introduces the followin
 
 ## Installation
 
-Clone this forked repository:
+Install the repository directly from GitHub using `pip`:
 
 ```bash
-git clone https://github.com/shayan-eyn/Supervised-Models.git
-cd Supervised-Models
-```
-
-Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
+pip install git+https://github.com/shayan-eyn/lazypredict.git
 ```
 
 ## Usage
